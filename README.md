@@ -7,11 +7,11 @@ You can deploy these token to any Ethereum Virtual Machine Blockchain, like: Eth
 And you could also deploy these token to any test network,like: Ropsten,Kovan,Rinkby and Binance testnet...
 
  
-<img src="https://github.com/AlgoCryptoDapp/Token-Factory/blob/main/website.png?raw=true">
+<img src="https://github.com/CryptoDappRun/Token-Factory/blob/main/website.png?raw=true">
  
 
 Website1: https://erc20tokenfactory.netlify.app<br>
-Website2:https://algocryptodapp.github.io/Token-Factory/<br>
+Website2:https://CryptoDappRun.github.io/Token-Factory/<br>
 Website3:https://dapp404.com/Token-Factory<br>
 
 
@@ -54,5 +54,5 @@ Buy Cryptocurrency:
 https://www.mimi.exchange/
 
 Token Airdop:
-https://github.com/AlgoCryptoDapp/Bee-Sender
+https://github.com/CryptoDappRun/Bee-Sender
 
