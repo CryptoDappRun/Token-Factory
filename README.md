@@ -46,8 +46,7 @@ English
 
 Tips<br>
 After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.<br>
-You can also Deploy to your github page
-https://github.com/AlgoCryptoDapp/Page
+ 
 
 You can deployed this source to any server and change the brand name without my approve.
 Buy Cryptocurrency:
