@@ -7,7 +7,7 @@ You can deploy these token to any Ethereum Virtual Machine Blockchain, like: Eth
 And you could also deploy these token to any test network,like: Ropsten,Kovan,Rinkby and Binance testnet...
 
  
-<img src="https://github.com/CryptoDappRun/Token-Factory/blob/main/website.png?raw=true">
+<img src="website.png">
  
 
 Website1: https://erc20tokenfactory.netlify.app<br>
