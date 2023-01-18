@@ -49,8 +49,7 @@ After modifying the address, please refresh the website to visit after more than
  
 
 You can deployed this source to any server and change the brand name without my approve.
-Buy Cryptocurrency:
-https://www.mimi.exchange/
+
 
 Token Airdop:
 https://github.com/CryptoDappRun/Bee-Sender
