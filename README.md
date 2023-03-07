@@ -1,4 +1,4 @@
-TokenFactory
+## TokenFactory
 Issuing your own cryptocurrency token on the Ethereum,Binance and all EVM Blockchain with One-Click.
 Support Mintable,Pausable,Capped,Burnable,USDT and multi Function ERC20 Tokens,BEP20 token.Create Token,Generate Token Defi DAPP
 
