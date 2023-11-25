@@ -12,7 +12,6 @@ And you could also deploy these token to any test network,like: Ropsten,Kovan,Ri
 
 Website1: https://erc20tokenfactory.netlify.app<br>
 Website2:https://CryptoDappRun.github.io/Token-Factory/<br>
-Website3:https://dapp404.com/Token-Factory<br>
 
 
 Tutorial Video:<br>
